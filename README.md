@@ -1,2 +1,2 @@
 # Attrition-Rate
-Attrition rate using Decision Tree
+Attrition rate using Decision Tree and KNN Modules
